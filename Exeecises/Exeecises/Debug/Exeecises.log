@@ -1,0 +1,26 @@
+﻿生成启动时间为 2018/11/27 15:31:22。
+     1>项目“G:\VS\VSproject\VS2013\Exeecises\Exeecises\Exeecises.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\VS\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Test.c
+         Test.c
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(84): warning C4033: “SListFind”必须返回值
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(97): warning C4033: “SListFind”必须返回值
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(156): warning C4033: “SListJoseph”必须返回值
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(235): warning C4098: “SListBUbbleSort”:“void”函数返回值
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(316): warning C4033: “SListMidNode”必须返回值
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(336): warning C4033: “SLNode”必须返回值
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(346): warning C4033: “SLNode”必须返回值
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(468): warning C4047: “函数”:“SListNode **”与“SListNode *”的间接级别不同
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(468): warning C4024: “SListMidNode”: 形参和实参 1 的类型不同
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(99): warning C4715: “SListFind”: 不是所有的控件路径都返回值
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(179): warning C4715: “SListJoseph”: 不是所有的控件路径都返回值
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(326): warning C4715: “SListMidNode”: 不是所有的控件路径都返回值
+     1>g:\vs\vsproject\vs2013\exeecises\exeecises\list.h(355): warning C4715: “SLNode”: 不是所有的控件路径都返回值
+       Link:
+         G:\VS\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\VS\VSproject\VS2013\Exeecises\Debug\Exeecises.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\VS\VSproject\VS2013\Exeecises\Debug\Exeecises.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\VS\VSproject\VS2013\Exeecises\Debug\Exeecises.lib" /MACHINE:X86 Debug\Test.obj
+         Exeecises.vcxproj -> G:\VS\VSproject\VS2013\Exeecises\Debug\Exeecises.exe
+     1>已完成生成项目“G:\VS\VSproject\VS2013\Exeecises\Exeecises\Exeecises.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.79
